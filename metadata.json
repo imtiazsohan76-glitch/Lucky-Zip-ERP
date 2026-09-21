@@ -1,0 +1,8 @@
+{
+  "name": "Remix Agency ERP",
+  "description": "Modern SaaS admin dashboard foundation for Agency ERP, featuring a responsive responsive layout, modular pages, reusable components, and client-side page routing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
